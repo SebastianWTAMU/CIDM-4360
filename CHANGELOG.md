@@ -1,5 +1,5 @@
 # Changelog
-Sebastian Gonzalez
+Author: Sebastian Gonzalez
 
 All notable changes to this project will be documented in this file.
 
